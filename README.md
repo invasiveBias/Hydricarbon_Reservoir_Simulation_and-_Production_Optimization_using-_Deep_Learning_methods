@@ -1,6 +1,6 @@
 # Deep Learning for Hydrocarbon Reservoir Simulation and Production Optimization
 
-This project explores the application of deep learning techniques for managing hydrocarbon reservoirs. It is divided into two main parts: first, simulating reservoir behavior using a finetuned language model, and second, optimizing production rates using Deep Reinforcement Learning (DRL) guided by the trained simulator.
+As the research focus for my undergraduate honors thesis in Geology, this project explores the application of deep learning techniques for hydrocarbon reservoir management. It is divided into two main parts: first, simulating reservoir behavior using a finetuned language model, and second, optimizing production rates using Deep Reinforcement Learning (DRL) guided by the trained simulator.
 
 Managing hydrocarbon reservoirs effectively is crucial for maximizing recovery and economic value. Traditional simulation methods can be computationally expensive. This project investigates using data-driven deep learning models as surrogate simulators and reinforcement learning for intelligent production control.
 
